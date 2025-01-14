@@ -7,7 +7,7 @@ type Contact struct {
 
 func GetContact() Contact {
 	return Contact{
-		Name:        "John Doe",
+		Name:        "John Doedd",
 		PhoneNumber: "123-456-7890",
 	}
 }
